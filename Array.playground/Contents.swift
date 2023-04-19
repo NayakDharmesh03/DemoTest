@@ -1,6 +1,6 @@
 import UIKit
 
-var str = "Hello, playground I am Dharmesh and edit this project"
+var str = "Hello, I am Dharmesh and edit this project"
 
 /*
  append
@@ -25,6 +25,8 @@ var str = "Hello, playground I am Dharmesh and edit this project"
  flatMap()
  
  drop(while : )---->?
+
+let diff = scores2.difference(from: scores1)
  */
 
 var scores1 = [100, 98, 95, 90, 100]
