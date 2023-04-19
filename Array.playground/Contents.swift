@@ -1,6 +1,7 @@
 import UIKit
 
-var str = "Hello, playground"
+var str = "Hello, playground I am Dharmesh and edit this project"
+
 /*
  append
  count
